@@ -46,3 +46,5 @@ export const Button = ({
     </button>
   );
 };
+
+Button.displayName = 'MyButtonDisplayName'
